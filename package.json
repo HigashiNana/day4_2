@@ -18,5 +18,8 @@
   "homepage": "https://github.com/HigashiNana/day4_2#readme",
   "dependencies": {
     "express": "^4.15.0"
+  },
+  "devDependencies": {
+    "ejs": "^2.5.6"
   }
 }
